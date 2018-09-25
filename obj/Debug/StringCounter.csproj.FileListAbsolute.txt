@@ -1,0 +1,10 @@
+C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\bin\Debug\StringCounter.exe.config
+C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\bin\Debug\StringCounter.exe
+C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\bin\Debug\StringCounter.pdb
+C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\obj\Debug\StringCounter.csprojAssemblyReference.cache
+C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\obj\Debug\StringCounter.Properties.Resources.resources
+C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\obj\Debug\StringCounter.csproj.GenerateResource.cache
+C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\obj\Debug\StringCounter.csproj.CoreCompileInputs.cache
+C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\obj\Debug\StringCounter.exe
+C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\obj\Debug\StringCounter.pdb
+C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\obj\Debug\StringCounter.StringCounter.resources
