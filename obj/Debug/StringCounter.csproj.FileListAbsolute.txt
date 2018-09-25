@@ -8,3 +8,13 @@ C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\obj\Debug\StringCounter.c
 C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\obj\Debug\StringCounter.exe
 C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\obj\Debug\StringCounter.pdb
 C:\Users\blnt\Desktop\TEST\StringCounter\StringCounter\obj\Debug\StringCounter.StringCounter.resources
+C:\Users\Toto\Documents\GitHub\String_Counter\bin\Debug\StringCounter.exe.config
+C:\Users\Toto\Documents\GitHub\String_Counter\bin\Debug\StringCounter.exe
+C:\Users\Toto\Documents\GitHub\String_Counter\bin\Debug\StringCounter.pdb
+C:\Users\Toto\Documents\GitHub\String_Counter\obj\Debug\StringCounter.csprojAssemblyReference.cache
+C:\Users\Toto\Documents\GitHub\String_Counter\obj\Debug\StringCounter.StringCounter.resources
+C:\Users\Toto\Documents\GitHub\String_Counter\obj\Debug\StringCounter.Properties.Resources.resources
+C:\Users\Toto\Documents\GitHub\String_Counter\obj\Debug\StringCounter.csproj.GenerateResource.cache
+C:\Users\Toto\Documents\GitHub\String_Counter\obj\Debug\StringCounter.csproj.CoreCompileInputs.cache
+C:\Users\Toto\Documents\GitHub\String_Counter\obj\Debug\StringCounter.exe
+C:\Users\Toto\Documents\GitHub\String_Counter\obj\Debug\StringCounter.pdb

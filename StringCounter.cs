@@ -14,9 +14,10 @@ namespace StringCounter
     public partial class StringCounter : Form
     {
 
-        private string LongString;
-        private string KeyWord;
+        private string LongString = "";
+        private string KeyWord = "";
         private int _Count;
+        private int lastind = -1;
         //private int firstIndex;
         //private int lastIndex;
         Search sc = new Search();
@@ -43,9 +44,9 @@ namespace StringCounter
                 _Count = sc.WordCount(LongString, KeyWord);
                 CounterBox.Text = Convert.ToString(_Count);
             }
-            catch (Exception )
+            catch (Exception E )
             {
-                MessageBox.Show("Something is missing!", "Missing Value", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Something is missing!" + E.Message, "Missing Value", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                                 
                 //MessageBox.Show("Something is missing!");
             }
@@ -53,7 +54,12 @@ namespace StringCounter
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Close();
+
+
+            int i;
+            i = LongStringBox.Text.IndexOf(SearchKeywordBox.Text , lastind + 1);
+            lastind = i;
+            CounterBox.Text = i.ToString();
         }
 
         private void OpenButton_Click(object sender, EventArgs e)

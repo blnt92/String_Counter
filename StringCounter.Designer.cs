@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(StringCounter));
             this.LongStringBox = new System.Windows.Forms.RichTextBox();
             this.SearchKeywordBox = new System.Windows.Forms.RichTextBox();
             this.CounterBox = new System.Windows.Forms.RichTextBox();
@@ -46,7 +47,7 @@
             this.LongStringBox.Name = "LongStringBox";
             this.LongStringBox.Size = new System.Drawing.Size(222, 380);
             this.LongStringBox.TabIndex = 0;
-            this.LongStringBox.Text = "";
+            this.LongStringBox.Text = resources.GetString("LongStringBox.Text");
             this.LongStringBox.TextChanged += new System.EventHandler(this.LongStringBox_TextChanged);
             // 
             // SearchKeywordBox
@@ -110,11 +111,11 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button1.Location = new System.Drawing.Point(681, 426);
+            this.button1.Location = new System.Drawing.Point(286, 267);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(107, 36);
             this.button1.TabIndex = 7;
-            this.button1.Text = "Close";
+            this.button1.Text = "Next Pos";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 

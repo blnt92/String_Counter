@@ -15,5 +15,7 @@ namespace StringCounter
             int count = Regex.Matches(LongString, KeyWord, RegexOptions.IgnoreCase).Count;
             return count;         
         }
+
+
     }
 }
